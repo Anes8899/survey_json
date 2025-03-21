@@ -1,0 +1,115 @@
+{
+  "title": "HTML Quiz",
+  "questions": [
+    {
+      "question": "What does HTML stand for?",
+      "type": "multiple",
+      "options": [
+        "Hyper Text Markup Language",
+        "High Tech Modern Language",
+        "Hyperlink and Text Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Which HTML tag is used to define an unordered list?",
+      "type": "multiple",
+      "options": [
+        "<ol>",
+        "<ul>",
+        "<li>",
+        "<list>"
+      ],
+      "answer": "<ul>"
+    },
+    {
+      "question": "What is the correct way to create a hyperlink in HTML?",
+      "type": "multiple",
+      "options": [
+        "<a>www.example.com</a>",
+        "<a href='www.example.com'>Click Here</a>",
+        "<link>www.example.com</link>",
+        "<href>www.example.com</href>"
+      ],
+      "answer": "<a href='www.example.com'>Click Here</a>"
+    },
+    {
+      "question": "Which attribute is used to provide alternative text for an image?",
+      "type": "multiple",
+      "options": [
+        "title",
+        "alt",
+        "src",
+        "href"
+      ],
+      "answer": "alt"
+    },
+    {
+      "question": "What is the purpose of the <head> section in an HTML document?",
+      "type": "multiple",
+      "options": [
+        "To display the main content",
+        "To contain metadata and links to stylesheets",
+        "To define the footer of the webpage",
+        "To store user data"
+      ],
+      "answer": "To contain metadata and links to stylesheets"
+    },
+    {
+      "question": "Which HTML element is used for the largest heading?",
+      "type": "multiple",
+      "options": [
+        "<h6>",
+        "<h1>",
+        "<head>",
+        "<title>"
+      ],
+      "answer": "<h1>"
+    },
+    {
+      "question": "How can you create a line break in HTML?",
+      "type": "multiple",
+      "options": [
+        "<lb>",
+        "<break>",
+        "<br>",
+        "<hr>"
+      ],
+      "answer": "<br>"
+    },
+    {
+      "question": "Which tag is used to create a table in HTML?",
+      "type": "multiple",
+      "options": [
+        "<table>",
+        "<tab>",
+        "<tr>",
+        "<td>"
+      ],
+      "answer": "<table>"
+    },
+    {
+      "question": "What is the correct HTML tag for inserting a line?",
+      "type": "multiple",
+      "options": [
+        "<line>",
+        "<hr>",
+        "<br>",
+        "<div>"
+      ],
+      "answer": "<hr>"
+    },
+    {
+      "question": "Which attribute is used to open a link in a new tab?",
+      "type": "multiple",
+      "options": [
+        "target='_self'",
+        "target='_parent'",
+        "target='_blank'",
+        "target='_top'"
+      ],
+      "answer": "target='_blank'"
+    }
+  ]
+}
